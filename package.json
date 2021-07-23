@@ -1,6 +1,6 @@
 {
   "name": "ts-react-redux-router-saga",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This simple and clear boilerplate for start your project with react-redux ecosystem.",
   "keywords": [
     "ts",
