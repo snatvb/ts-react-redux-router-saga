@@ -5,15 +5,25 @@ This simple and clear boilerplate for start your project with react-redux ecosys
 ### What exists:
 
 ✅ react
+
 ✅ redux
+
 ✅ react-redux
+
 ✅ redux-saga
+
 ✅ react-router
+
 ✅ typescript
+
 ✅ prettier
+
 ✅ webpack
+
 ✅ sass
+
 ✅ cross-env
+
 ✅ normalize.css
 
 ## Get started
