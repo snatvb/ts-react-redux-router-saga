@@ -21,6 +21,7 @@
     "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\" --write",
     "format:stage": "npx pretty-quick --staged",
     "postinstall": "husky install",
+    "release": "standard-version",
     "prepare": "husky install",
     "commit": "cz"
   },
@@ -64,6 +65,7 @@
     "pretty-quick": "^3.1.1",
     "sass": "1.35.2",
     "sass-loader": "12.1.0",
+    "standard-version": "9.3.2",
     "style-loader": "3.2.1",
     "ts-loader": "9.2.3",
     "typescript": "4.3.5",
