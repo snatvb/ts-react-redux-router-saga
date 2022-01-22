@@ -18,6 +18,10 @@ This simple and clear boilerplate for start your project with react-redux ecosys
 
 ✅ prettier
 
+✅ commitizen
+
+✅ standard-version
+
 ✅ webpack
 
 ✅ sass
